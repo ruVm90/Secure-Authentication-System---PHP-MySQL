@@ -35,9 +35,9 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 
 ---
 
-## 🛡️ Seguridad Implementada
+##  Seguridad Implementada
 
-Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
+🛡️ Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
 
 ### 1️⃣ Protección contra SQL Injection
 - **PDO con Prepared Statements** en todas las consultas
