@@ -13,13 +13,13 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 ## 📋 Tabla de Contenidos
 
 - [Características](#-características)
-- [Seguridad Implementada](#-seguridad-implementada)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+- [Seguridad Implementada](#seguridad)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Instalación](#-instalación)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Lo que Aprendí](#-lo-que-aprendí)
-- [Roadmap](#-roadmap)
-- [Contacto](#-contacto)
+- [Roadmap](#roadmap)
+- [Contacto](#contacto)
 
 ---
 
