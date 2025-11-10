@@ -290,11 +290,11 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ## Contacto
 
-👨‍💻 **Tu Nombre**
+👨‍💻 **Rubén Vega**
 
 - GitHub: [@ruVm90](https://github.com/ruVm90)
-- Portfolio: [@ruVm90](https://rubenv-portfolio.vercel.app/)
-- LinkedIn: [Ruben Vega](www.linkedin.com/in/rubenvegadev)
+- Portfolio: [rubenv-portfolio.vercel.app](https://rubenv-portfolio.vercel.app/)
+- LinkedIn: [Ruben Vega](https://www.linkedin.com/in/rubenvegadev)
 - Email: ruben.dev@gmail.com
 
 ---
