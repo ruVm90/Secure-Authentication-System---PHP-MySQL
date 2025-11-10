@@ -30,7 +30,6 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 - ✅ **Página de error** dedicada con mensajes informativos
 - ✅ **Validación dual** (Frontend con JavaScript + Backend con PHP)
 - ✅ **Interfaz responsive** con diseño moderno y gradientes
-- ✅ **Búsqueda en tiempo real** en la lista de usuarios
 - ✅ **Código completamente documentado** con explicaciones técnicas
 
 ---
@@ -128,8 +127,8 @@ X-XSS-Protection: 1; mode=block    // Activa filtro XSS del navegador
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/ruVm90/sistema-autenticacion-php.git
-cd sistema-autenticacion-php
+git clone https://github.com/ruVm90/Secure-Authentication-System---PHP-MySQL.git
+cd Secure-Authentication-System---PHP-MySQL
 ```
 
 ### Paso 2: Configurar la Base de Datos
@@ -163,7 +162,7 @@ php -S localhost:8000
 
 **Opción B: Con XAMPP/WAMP**
 - Coloca el proyecto en `htdocs/` o `www/`
-- Accede a `http://localhost/sistema-autenticacion-php/register.php`
+- Accede a `http://localhost/Secure-Authentication-System-php/register.php`
 
 ### Paso 5: Acceder a la Aplicación
 
@@ -175,14 +174,14 @@ php -S localhost:8000
 ## Estructura del Proyecto
 
 ```
-sistema-autenticacion-php/
+Secure-Authentication-System-php/
 │
 ├── config/
 │   └── database.php          # Configuración de PDO y conexión a MySQL
 │
 ├── includes/
-│   └── functions.php         # Funciones de seguridad y gestión de usuarios
-│
+│   └── security.php         # Funciones de seguridad 
+│   └── user_manager.php     # Funciones para gestionar usuarios
 │
 ├── register.php              # Formulario de registro con validación
 ├── login.php                 # Formulario de inicio de sesión
@@ -191,17 +190,17 @@ sistema-autenticacion-php/
 ├── logout.php                # Cierre de sesión seguro
 ├── database.sql              # Script SQL para crear base de datos
 ├── README.md                 # Este archivo
-└── LICENSE                   # Licencia MIT
 
 ```
 
 ### Descripción de Archivos Clave
 
 - **`config/database.php`**: Conexión PDO con singleton pattern y configuración de seguridad
-- **`includes/functions.php`**: Todas las funciones reutilizables (sanitización, validación, CSRF, operaciones DB)
+- **`includes/security.php`**: Todas las funciones reutilizables sobre seguridad (sanitización, validación, CSRF)
+- **`includes/user_manager.php`**: Funciones reutilizables para comunicarse con la db
 - **`register.php`**: Formulario con validación de fortaleza de contraseña y confirmación
 - **`login.php`**: Autenticación con protección CSRF y manejo de errores
-- **`dashboard.php`**: Página protegida que muestra lista de usuarios con búsqueda
+- **`dashboard.php`**: Página protegida que muestra lista de usuarios
 - **`error.php`**: Página dedicada para errores de login con consejos útiles
 - **`logout.php`**: Destrucción completa de sesión y cookies
 
