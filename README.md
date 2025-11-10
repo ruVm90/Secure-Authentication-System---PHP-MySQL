@@ -35,9 +35,9 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 
 ---
 
-##  Seguridad Implementada
+## <a>name="seguridad"</a🛡️ Seguridad Implementada
 
-🛡️ Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
+ Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
 
 ### 1️⃣ Protección contra SQL Injection
 - **PDO con Prepared Statements** en todas las consultas
@@ -95,7 +95,7 @@ X-XSS-Protection: 1; mode=block    // Activa filtro XSS del navegador
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## <a>name="tecnologias"</a🛠️ Tecnologías Utilizadas
 
 | Tecnología | Propósito |
 |-----------|-----------|
@@ -242,7 +242,7 @@ Este proyecto fue una oportunidad para profundizar en conceptos fundamentales de
 
 ---
 
-## 🗺️ Roadmap
+##<a>name="roadmap"</a 🗺️ Roadmap
 
 Mejoras futuras planificadas para el proyecto:
 
@@ -292,13 +292,13 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ---
 
-## 👨‍💻 Contacto
+##<a>name="contacto"</a 👨‍💻 Contacto
 
 **Tu Nombre**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@ruVm90](https://github.com/ruVm90)
+- LinkedIn: [tu-perfil](www.linkedin.com/in/rubenvegadev)
+- Email: ruben.dev@gmail.com
 
 ---
 
