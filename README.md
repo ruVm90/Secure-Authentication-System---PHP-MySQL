@@ -297,9 +297,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 👨‍💻 **Tu Nombre**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu.email@ejemplo.com
+- GitHub: [@ruVm90](https://github.com/ruVm90)
+- LinkedIn: [tu-perfil](www.linkedin.com/in/rubenvegadev)
+- Email: ruben.dev@gmail.com
 
 ---
 
