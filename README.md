@@ -128,7 +128,7 @@ X-XSS-Protection: 1; mode=block    // Activa filtro XSS del navegador
 ### Paso 1: Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/sistema-autenticacion-php.git
+git clone https://github.com/ruVm90/sistema-autenticacion-php.git
 cd sistema-autenticacion-php
 ```
 
@@ -183,11 +183,6 @@ sistema-autenticacion-php/
 ├── includes/
 │   └── functions.php         # Funciones de seguridad y gestión de usuarios
 │
-├── screenshots/              # Capturas de pantalla para README
-│   ├── registro.png
-│   ├── login.png
-│   ├── dashboard.png
-│   └── error.png
 │
 ├── register.php              # Formulario de registro con validación
 ├── login.php                 # Formulario de inicio de sesión
@@ -298,7 +293,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 👨‍💻 **Tu Nombre**
 
 - GitHub: [@ruVm90](https://github.com/ruVm90)
-- LinkedIn: [tu-perfil](www.linkedin.com/in/rubenvegadev)
+- Portfolio: [@ruVm90](https://rubenv-portfolio.vercel.app/)
+- LinkedIn: [Ruben Vega](www.linkedin.com/in/rubenvegadev)
 - Email: ruben.dev@gmail.com
 
 ---
