@@ -1,4 +1,4 @@
-# 🔐 Sistema de Autenticación Seguro - PHP & MySQL
+# 🔐 Secure Authentication System - PHP & MySQL
 
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
