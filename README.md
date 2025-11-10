@@ -1,4 +1,3 @@
-
 # 🔐 Sistema de Autenticación Seguro - PHP & MySQL
 
 ![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -12,18 +11,18 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 
 ## 📋 Tabla de Contenidos
 
-- [Características](#-características)
-- [Seguridad Implementada](#seguridad)
+- [Características](#características)
+- [Seguridad Implementada](#seguridad-implementada)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Instalación](#-instalación)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Lo que Aprendí](#-lo-que-aprendí)
+- [Instalación](#instalación)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Lo que Aprendí](#lo-que-aprendí)
 - [Roadmap](#roadmap)
 - [Contacto](#contacto)
 
 ---
 
-## ✨ Características
+## Características
 
 - ✅ **Registro de usuarios** con validación robusta de contraseñas
 - ✅ **Sistema de login/logout** seguro con gestión de sesiones
@@ -31,13 +30,14 @@ Sistema completo de registro y autenticación de usuarios desarrollado con **PHP
 - ✅ **Página de error** dedicada con mensajes informativos
 - ✅ **Validación dual** (Frontend con JavaScript + Backend con PHP)
 - ✅ **Interfaz responsive** con diseño moderno y gradientes
+- ✅ **Búsqueda en tiempo real** en la lista de usuarios
 - ✅ **Código completamente documentado** con explicaciones técnicas
 
 ---
 
-## <a>name="seguridad"</a🛡️ Seguridad Implementada
+## Seguridad Implementada
 
- Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
+🛡️ Este proyecto fue desarrollado con un **enfoque de seguridad primero**, implementando protección contra las vulnerabilidades más críticas:
 
 ### 1️⃣ Protección contra SQL Injection
 - **PDO con Prepared Statements** en todas las consultas
@@ -95,7 +95,8 @@ X-XSS-Protection: 1; mode=block    // Activa filtro XSS del navegador
 
 ---
 
-## <a>name="tecnologias"</a🛠️ Tecnologías Utilizadas
+
+## Tecnologías Utilizadas
 
 | Tecnología | Propósito |
 |-----------|-----------|
@@ -116,7 +117,7 @@ X-XSS-Protection: 1; mode=block    // Activa filtro XSS del navegador
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 ### Requisitos Previos
 
@@ -171,7 +172,7 @@ php -S localhost:8000
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```
 sistema-autenticacion-php/
@@ -211,9 +212,9 @@ sistema-autenticacion-php/
 
 ---
 
-## 💡 Lo que Aprendí
+## Lo que Aprendí
 
-Este proyecto fue una oportunidad para profundizar en conceptos fundamentales de seguridad web:
+💡 Este proyecto fue una oportunidad para profundizar en conceptos fundamentales de seguridad web:
 
 ### 🎯 Conceptos Técnicos
 
@@ -242,9 +243,9 @@ Este proyecto fue una oportunidad para profundizar en conceptos fundamentales de
 
 ---
 
-##<a>name="roadmap"</a 🗺️ Roadmap
+## Roadmap
 
-Mejoras futuras planificadas para el proyecto:
+🗺️ Mejoras futuras planificadas para el proyecto:
 
 ### Corto Plazo
 - [ ] **Rate Limiting**: Limitar intentos de login (5 por IP/usuario)
@@ -292,13 +293,13 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 ---
 
-##<a>name="contacto"</a 👨‍💻 Contacto
+## Contacto
 
-**Tu Nombre**
+👨‍💻 **Tu Nombre**
 
-- GitHub: [@ruVm90](https://github.com/ruVm90)
-- LinkedIn: [tu-perfil](www.linkedin.com/in/rubenvegadev)
-- Email: ruben.dev@gmail.com
+- GitHub: [@tu-usuario](https://github.com/tu-usuario)
+- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
+- Email: tu.email@ejemplo.com
 
 ---
 
