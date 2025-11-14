@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS Hype_test;
+CREATE DATABASE IF NOT EXISTS Secure_authentication_system;
 
-USE Hype_test;
+USE Secure_authentication_system;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT PRIMARY KEY AUTO_INCREMENT,

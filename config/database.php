@@ -4,11 +4,11 @@
  * Este archivo establece la conexión con MySQL usando PDO
  */
 
-define('DB_HOST', 'localhost');        // Servidor de base de datos
-define('DB_NAME', 'hype_test');        // Nombre de tu base de datos
-define('DB_USER', 'root');             // Usuario de MySQL
-define('DB_PASS', '');                 // Contraseña de MySQL (vacía por defecto en XAMPP/WAMP)
-define('DB_CHARSET', 'utf8mb4');       // Codificación de caracteres 
+define('DB_HOST', 'localhost');                    // Servidor de base de datos
+define('DB_NAME', 'Secure_authentication_system'); // Nombre de tu base de datos
+define('DB_USER', 'root');                         // Usuario de MySQL
+define('DB_PASS', '');                             // Contraseña de MySQL (vacía por defecto en XAMPP/WAMP)
+define('DB_CHARSET', 'utf8mb4');                   // Codificación de caracteres 
 
 /**
  * Función para obtener la conexión a la base de datos
