@@ -1,0 +1,11 @@
+{
+    "name": "ruVm90/secure-authentication-system",
+    "description": "Sistema de autenticación seguro con PHP y MySQL",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {},
+    "autoload": {},
+    "scripts": {}
+}
