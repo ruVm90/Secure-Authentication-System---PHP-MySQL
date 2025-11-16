@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+.env
+.env.local
+*.log
+node_modules
+vendor
+composer.json
+composer.lock
+database.sql
