@@ -1,6 +1,7 @@
-CREATE DATABASE IF NOT EXISTS Secure_authentication_system;
 
-USE Secure_authentication_system;
+USE sql8808083;
+
+DROP TABLE IF EXISTS users;
 
 CREATE TABLE IF NOT EXISTS users (
     id INT PRIMARY KEY AUTO_INCREMENT,
